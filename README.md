@@ -8,6 +8,22 @@ Four original pages: **Rainbow Rocket**, **Dino Picnic**, **Bubble Buddies**, an
 
 ![Color Quest icon](badge/apps/color_quest/icon.png)
 
+## See it in action
+
+[![Watch the Color Quest promo: a completed Rainbow Rocket with confetti](docs/media/masterpiece.png)](https://github.com/jamesmontemagno/color-quest-badge/blob/main/docs/media/color-quest-promo.mp4)
+
+**[Watch the 40-second promo](https://github.com/jamesmontemagno/color-quest-badge/blob/main/docs/media/color-quest-promo.mp4)** · [Download the MP4](https://github.com/jamesmontemagno/color-quest-badge/raw/refs/heads/main/docs/media/color-quest-promo.mp4)
+
+Recorded in the badge simulator: browse the coloring book, pick colors, and finish the Rainbow Rocket to earn a star and confetti. Cursor jumps between parts are scripted for the demo.
+
+## Screenshots
+
+| Choose a picture | Pick a color |
+| --- | --- |
+| ![Rainbow Rocket coloring page with 11 parts to fill](docs/media/rainbow-rocket.png) | ![Twelve-color palette with named colors](docs/media/color-palette.png) |
+
+*Simulator captures. Any color is the right color!*
+
 ## Controls
 
 | Button | Action |
